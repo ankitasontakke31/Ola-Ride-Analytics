@@ -39,8 +39,7 @@ The goal is to transform raw data into meaningful insights that help understand 
 
 ## 📂 Files & Links  
 - 📊 **Analytical Report** → [View Report](https://github.com/ankitasontakke31/Ola-Ride-Analytics/blob/main/OLA%20Ride%20Analysis.pdf) 
-- 📜 **SQL Queries** → [View Queries](https://github.com/ankitasontakke31/Ola-RideAnalytics/blob/main/%F0%9D%90%92%F0%9D%90%90%F0%9D%90%8B%20%F0%9D%90%83%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9A%20%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%B2%F0%9D%90%AC%F0%9D%90%A2s.pdf)
- 
+- 📜 **SQL Queries** → [View Queries](https://github.com/ankitasontakke31/Ola-Ride-Analytics/blob/main/%F0%9D%90%92%F0%9D%90%90%F0%9D%90%8B%20%F0%9D%90%83%F0%9D%90%9A%F0%9D%90%AD%F0%9D%90%9A%20%F0%9D%90%80%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%B2%F0%9D%90%AC%F0%9D%90%A2s.pdf)
 ---
 
 ## ✅ Conclusion  
