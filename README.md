@@ -53,4 +53,4 @@ Such findings can support better decision-making, improve customer satisfaction,
 ## 👩‍💻 About Me  
 - **Name:** Ankita Sontakke  
 - 🔗 [GitHub Profile](https://github.com/ankitasontakke31)  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/ankita-sontakke-3302222a8)  
+- 💼 [LinkedIn Profile](https:www.linkedin.com/in/ankita-sontakke-3302222a8)
