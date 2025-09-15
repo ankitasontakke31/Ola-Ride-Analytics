@@ -38,7 +38,7 @@ The goal is to transform raw data into meaningful insights that help understand 
 ---
 
 ## 📂 Files & Links  
-- 📊 **Analytical Report** → [View Report](dashboard/ola_report_file.pbix)  
+- 📊 **Analytical Report** → [View Report](https://github.com/ankitasontakke31/Ola-Ride-Analytics/blob/main/OLA%20Ride%20Analysis.pdf) 
 - 📜 **SQL Queries** → [View Queries](queries/ola_queries.sql)  
  
 
